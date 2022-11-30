@@ -1,7 +1,1 @@
-Pasta
-<<<<<<< HEAD
-Pizza
-
-=======
-Hola
->>>>>>> e026ac7f37c69651b468f03dabfcd8bd02be2a21
+Sam
